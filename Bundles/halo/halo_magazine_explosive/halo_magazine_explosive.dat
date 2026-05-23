@@ -1,0 +1,36 @@
+﻿GUID c7720757771e47bcaacf9adae154675d
+Type Magazine
+Rarity Legendary
+ID 55250
+
+Size_X 2
+Size_Y 2
+Size_Z 0.12
+
+InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Metal.asset
+
+Amount 30
+
+Calibers 10
+Caliber_0 5417
+Caliber_1 5418
+Caliber_2 5419
+Caliber_3 5420
+Caliber_4 5421
+Caliber_5 5422
+Caliber_6 5423
+Caliber_7 5428
+Caliber_8 5434
+Caliber_9 5436
+
+Range 4
+Player_Damage 5
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 6
+Structure_Damage 6
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 6712
+Explosive

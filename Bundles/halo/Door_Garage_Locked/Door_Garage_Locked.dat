@@ -1,0 +1,23 @@
+GUID 7787207626a147f695549c0d40f1d6f2
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Allow_Placement_On_Vehicle False
+Build Gate
+ID 55249
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Metal_Sheet.asset
+PlacementAudioClip laughingcoffinmod.masterbundle:Items/Barricades/Door_Garage/Use.wav
+
+Health 900
+Range 4
+Radius 1.5
+Offset 0.25
+
+Allow_Collision_While_Animating true
+
+Explosion 36
