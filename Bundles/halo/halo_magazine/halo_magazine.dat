@@ -1,0 +1,26 @@
+﻿GUID 3b4cab04d5fe41d986aa6984e25410b1
+Type Magazine
+Rarity Rare
+ID 55245
+
+Size_X 2
+Size_Y 2
+Size_Z 0.12
+
+InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Metal.asset
+
+Amount 30
+
+Calibers 12
+Caliber_0 5417
+Caliber_1 5418
+Caliber_2 5419
+Caliber_3 5420
+Caliber_4 5421
+Caliber_5 5422
+Caliber_6 5423
+Caliber_7 5427
+Caliber_8 5428
+Caliber_9 5432
+Caliber_10 5434
+Caliber_11 5436
