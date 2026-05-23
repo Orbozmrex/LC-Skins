@@ -1,0 +1,13 @@
+﻿GUID 8f6d4e1006be4e228643d35cf46d039e
+Type Backpack
+Rarity Epic
+Useable Clothing
+ID 55196
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 14
+Height 8
+Priority_Over_Cosmetic True

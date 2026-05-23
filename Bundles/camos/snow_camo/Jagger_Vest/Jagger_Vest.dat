@@ -1,0 +1,16 @@
+﻿GUID 2b7042a7b682420a944aeae530c178ec
+Type Vest
+Rarity Legendary
+Useable Clothing
+ID 55190
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Width 0
+Height 1
+
+Armor 0.3
+Movement_Speed_Multiplier 0.8
+Priority_Over_Cosmetic True

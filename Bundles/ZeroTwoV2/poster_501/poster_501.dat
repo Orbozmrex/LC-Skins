@@ -1,0 +1,44 @@
+﻿GUID 570df96a69024746b41ca7b7819c97f4
+
+ID 55135
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Torch
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Should_Close_When_Outside_Range true
+
+Health 100
+Range 4
+Radius 0.5
+Offset 0.48
+Has_Clip_Prefab false
+
+Explosion 36
+
+Blueprints
+[
+	{
+		CategoryTag "b0c6cc0a8b4346be89aef697ecdb8e46" // Furniture
+		InputItems
+		[
+			{
+				ID 1796a92a1abd4320b335a32a13c682ce
+				Amount 50
+				CountingMethod TotalAmount
+			}
+			{
+				ID 509d27667cd547d0974a0b831f7d71da
+				Amount 25
+				CountingMethod TotalAmount
+			}
+		]
+		OutputItems this
+		Effect "84347b13028340b8976033c08675d458" // Wrench
+	}
+]

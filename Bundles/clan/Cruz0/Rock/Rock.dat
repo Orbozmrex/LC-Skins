@@ -1,0 +1,44 @@
+﻿GUID e58e45d25ae24cd6a40fbf47efaef393
+Type Melee
+Useable Melee
+Slot Secondary
+ID 55145
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Range 2
+Strength 1
+Stamina 0
+Weak 0.33
+
+BladeIDs 3
+BladeID_0 0
+BladeID_1 2
+BladeID_2 4
+
+Player_Damage 20
+Player_Leg_Multiplier 0.75
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 2
+
+Zombie_Damage 34
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 34
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 15
+Structure_Damage 10
+Vehicle_Damage 25
+Resource_Damage 125
+Object_Damage 20
+
+Durability 0.2

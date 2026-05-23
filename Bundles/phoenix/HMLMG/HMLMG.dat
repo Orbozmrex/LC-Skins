@@ -1,0 +1,87 @@
+﻿GUID 425eaf3b573b4062a2da7ae2dcdc27b5
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+Can_Use_Underwater False
+ID 55024
+
+EquipAudioClip laughingcoffinmod.masterbundle:Items/Guns/HMLMG/Equip.wav
+ShootAudioClip laughingcoffinmod.masterbundle:Items/Guns/HMLMG/Shoot.wav
+ReloadAudioClip laughingcoffinmod.masterbundle:Items/Guns/M249/Reload.wav
+
+InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Guns.asset
+
+Size_X 2
+Size_Y 2
+Size_Z 1
+Size2_Z 0.6
+
+Magazine 5552
+Shell 6728
+
+Hook_Sight
+Hook_Tactical
+Hook_Barrel
+
+Ammo_Min 30
+Ammo_Max 60
+
+Auto
+
+Caliber 5428
+
+Range 375
+Firerate 5
+Unplace 0.3
+Replace 0.45
+Action Trigger
+
+Damage_Falloff_Range 0.2
+Damage_Falloff_Max_Range 0.8
+Damage_Falloff_Multiplier 0.75
+
+Player_Damage 55
+Player_Leg_Multiplier 0.75
+Player_Arm_Multiplier 1
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 2
+
+Zombie_Damage 50
+Zombie_Leg_Multiplier 0.75
+Zombie_Arm_Multiplier 1
+Zombie_Spine_Multiplier 1
+Zombie_Skull_Multiplier 2
+
+Animal_Damage 50
+Animal_Leg_Multiplier 0.75
+Animal_Spine_Multiplier 1
+Animal_Skull_Multiplier 2
+
+Barricade_Damage 10
+Structure_Damage 10
+Vehicle_Damage 20
+Resource_Damage 20
+Object_Damage 20
+
+Durability 0.15
+
+Spread_Aim 0.05
+Spread_Hip 0.15
+
+Recoil_Min_X -3
+Recoil_Min_Y 1.5
+Recoil_Max_X -3.5
+Recoil_Max_Y 2
+
+Recover_X 0.5
+Recover_Y 0.5
+
+Shake_Min_X -0.004
+Shake_Min_Y 0.004
+Shake_Min_Z -0.01
+Shake_Max_X 0.004
+Shake_Max_Y -0.004
+Shake_Max_Z -0.02
+
+Muzzle 6720

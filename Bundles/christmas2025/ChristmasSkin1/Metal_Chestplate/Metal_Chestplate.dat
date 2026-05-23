@@ -1,0 +1,15 @@
+﻿GUID da45be15043e4c16b43ef39ddb0eadaa
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 55231
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Width 0
+Height 1
+
+Armor 0.55
+Priority_Over_Cosmetic True
