@@ -1,0 +1,15 @@
+﻿GUID 4a34823470744f18a4e73a093156fcf9
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 55043
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Width 0
+Height 1
+
+Armor 0.55
+Priority_Over_Cosmetic True

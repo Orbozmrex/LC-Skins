@@ -1,0 +1,15 @@
+﻿GUID b8361807d8d044c3b31ef8d531518d0a
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 55181
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Width 0
+Height 1
+
+Armor 0.75
+Priority_Over_Cosmetic True

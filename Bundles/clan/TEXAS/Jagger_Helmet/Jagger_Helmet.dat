@@ -1,0 +1,13 @@
+﻿GUID c0d314643c034a3cbb502a06ffc6eeb1
+Type Hat
+Rarity Legendary
+Useable Clothing
+ID 55106
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Armor 0.3
+Movement_Speed_Multiplier 0.9
+Priority_Over_Cosmetic True

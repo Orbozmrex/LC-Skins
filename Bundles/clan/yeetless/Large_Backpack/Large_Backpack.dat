@@ -1,0 +1,13 @@
+﻿GUID b1227440c29746d4b401ab35e638be7f
+Type Backpack
+Rarity Epic
+Useable Clothing
+ID 55239
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 14
+Height 8
+Priority_Over_Cosmetic True
