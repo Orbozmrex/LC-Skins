@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3409411488
+CRC: 1381632234
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9b12cba8fd33b7866b7a0dc2d68a9b9e
+    Hash: 73e2869cb915fec73e0c650d764f2da3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 008e37ecdfdb69f673eb0eaa8d3bb4a9
@@ -94,6 +94,7 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/Metal_Mask/Animations.prefab
 - Assets/Skins_0/Bundles/ReZero/posters/500/frame_02_delay-0.09s.jpg
 - Assets/Skins_0/Bundles/lighting/Animations/L96/Hammer.anim
+- Assets/Skins_0/Bundles/AbyssPack/Pickaxe.fbx
 - Assets/Skins_0/Bundles/clan/yeetless/image.png
 - Assets/Skins_0/Bundles/lighting/frame_01_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/summer2025/SummerVibes/Door_Metal_locked/Barricade.prefab
@@ -133,6 +134,7 @@ Assets:
 - Assets/Skins_0/Bundles/IceKing/Metal_Mask/Animations.prefab
 - Assets/Skins_0/Bundles/IceKing/Metal_Mask/Item.prefab
 - Assets/Skins_0/Bundles/clan/TEXAS/Animations/MP5/Equip.anim
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverHatchet_Normal.png
 - Assets/Skins_0/Bundles/neonV2/_textures/stoneemission.png
 - Assets/Skins_0/Bundles/clan/cubi/Metal_Mask/Animations.prefab
 - Assets/Skins_0/Bundles/lighting/11 5.mat
@@ -142,6 +144,7 @@ Assets:
 - Assets/Skins_0/Bundles/neonV2/Armor/Animations.prefab
 - Assets/Skins_0/Bundles/Summer2026/Beach/16.mat
 - Assets/Skins_0/Bundles/mypony/tex0lr300.mat
+- Assets/Skins_0/Bundles/AbyssPack/Textures/abyss_dlc_storage_vertical_nrm.jpg
 - Assets/Skins_0/Bundles/neonV2/_textures/charcoalemission.png
 - Assets/Skins_0/Bundles/clan/cubi/Animations/Thompson/Attach_Stop.anim
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/M249/Animations.prefab
@@ -164,10 +167,12 @@ Assets:
 - Assets/Skins_0/Bundles/clan/TEXAS/Animations/MP5/Sprint_Stop.anim
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin2/Door_Garage_Locked/Item.prefab
 - Assets/Skins_0/Bundles/JungleAK/C.mat
+- Assets/Skins_0/Bundles/AbyssPack/materials/grip.mat
 - Assets/Skins_0/Bundles/camos/forest.mat
 - Assets/Skins_0/Bundles/clan/cubi/Metal_Chestplate/Item.prefab
 - Assets/Skins_0/Bundles/summer2025/SummerVibes/Door_Metal_locked/Animations.prefab
 - Assets/Skins_0/Bundles/lighting/Animations/AK47/Aim_Stop.anim
+- Assets/Skins_0/Bundles/AbyssPack/Textures/abyss_dlc_storage_vertical_bc.jpg
 - Assets/Skins_0/Bundles/neonV2/ClothesL/Nav.prefab
 - Assets/Skins_0/Bundles/camos/snow_camo/Metal_Chestplate/Item.prefab
 - Assets/Skins_0/Bundles/barrels/vertical/Case_Locked/Clip.prefab
@@ -238,13 +243,15 @@ Assets:
 - Assets/Skins_0/Bundles/neonV2/ArmorL/Animations.prefab
 - Assets/Skins_0/Bundles/Summer2026/Beach/13.png
 - Assets/Skins_0/Bundles/neonV2/FragsL/Clip.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/abyss_dlc_storage_netting_mg.png
 - Assets/Skins_0/Bundles/neonV2/CompsL/Barricade.prefab
 - Assets/Skins_0/Bundles/Halloween2025/Blair/0 7.mat
+- Assets/Skins_0/Bundles/AbyssPack/materials/DiverAssaultRifleParts2.mat
 - Assets/Skins_0/Bundles/mypony/tex0l96.mat
 - Assets/Skins_0/Bundles/lighting/frame_38_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/rainbow/LR300.fbx
-- Assets/Skins_0/Bundles/christmas2025/ChristmasGiftSkin/Door_Garage_Locked/Barricade.prefab
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/Metal_Mask/Hat.prefab
+- Assets/Skins_0/Bundles/christmas2025/ChristmasGiftSkin/Door_Garage_Locked/Barricade.prefab
 - Assets/Skins_0/Bundles/shockbyte/3.mat
 - Assets/Skins_0/Bundles/Summer2026/Beach/18.png
 - Assets/Skins_0/Bundles/clan/TEXAS/Animations/MP5/Attach_Stop.anim
@@ -277,14 +284,16 @@ Assets:
 - Assets/Skins_0/Bundles/allinone/Reni/star.mat
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin2/Metal_Mask/Hat.prefab
 - Assets/Skins_0/Bundles/lighting/Animations/LR300/Reload.anim
+- Assets/Skins_0/Bundles/AbyssPack/AK47/Item.prefab
 - Assets/Skins_0/Bundles/lighting/Bag_Sleeping/Barricade.prefab
-- Assets/Skins_0/Bundles/neonV2/Stone/Clip.prefab
 - Assets/Skins_0/Bundles/neonV2/Charcoal/Item.prefab
 - Assets/Skins_0/Bundles/Halloween2025/Blair/0 12.mat
 - Assets/Skins_0/Bundles/camos/snow.jpg
 - Assets/Skins_0/Bundles/Halloween2025/Blair/animation.controller
 - Assets/Skins_0/Bundles/ReZero/Rem/AK47/Animations.prefab
 - Assets/Skins_0/Bundles/lighting/Animations/M249/Sprint_Start.anim
+- Assets/Skins_0/Bundles/neonV2/Stone/Clip.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Vertical/Barricade.prefab
 - Assets/Skins_0/Bundles/allinone/Reni/AK47/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/FoodL/Animations.prefab
 - Assets/Skins_0/Bundles/neonV2/ClothesL/Item.prefab
@@ -298,16 +307,20 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/8 4.mat
 - Assets/Skins_0/Bundles/neonV2/Ammo/Clip.prefab
 - Assets/Skins_0/Bundles/rainbow/M249/Animations.prefab
+- Assets/Skins_0/Bundles/AbyssPack/materials/DiverAssaultRifle_Barrel_Skin.mat
 - Assets/Skins_0/Bundles/summer2025/beach/body.mat
 - Assets/Skins_0/Bundles/Halloween2025/Blair/1-0000.jpg
 - Assets/Skins_0/Bundles/camos/forest_camo/Coffee_Helmet/Hat.prefab
 - Assets/Skins_0/Bundles/lighting/4.mat
 - Assets/Skins_0/Bundles/neonV2/_textures/gunemission.png
+- Assets/Skins_0/Bundles/AbyssPack/anims/pickaxe_anims/Strong.anim
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultBody_Albedo.jpg
 - Assets/Skins_0/Bundles/allinone/Reni/LR300/Animations.prefab
-- Assets/Skins_0/Bundles/summer2025/SharkBag/_BumpMap0.png
 - Assets/Skins_0/Bundles/allinone/Slizu/L96/Item.prefab
-- Assets/Skins_0/Bundles/summer2025/SharkBag/Bag_Sleeping/Item.prefab
+- Assets/Skins_0/Bundles/summer2025/SharkBag/_BumpMap0.png
 - Assets/Skins_0/Bundles/Summer2026/Beach/15.mat
+- Assets/Skins_0/Bundles/summer2025/SharkBag/Bag_Sleeping/Item.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverHatchetRope_Albedo.jpg
 - Assets/Skins_0/Bundles/rainbow/1625907944_30-kartinkin-com-p-tekstura-cherno-belaya-krasivo-30.png
 - Assets/Skins_0/Bundles/barrels/horizontal/Case/Item.prefab
 - Assets/Skins_0/Bundles/Halloween2025/Pumpkin/pumpkin.png
@@ -338,6 +351,7 @@ Assets:
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin2/LR300/Item.prefab
 - Assets/Skins_0/Bundles/lighting/frame_25_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/christmas2025/ChristmasGiftSkin/Metal_Mask/Hat.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/abyss_dlc_storage_horizontal_mg.jpg
 - Assets/Skins_0/Bundles/christmas2025/ChristmasGiftSkin/Door_Garage_Locked/Clip.prefab
 - Assets/Skins_0/Bundles/clan/TEXAS/Animations/Jagger_Vest/Equip.anim
 - Assets/Skins_0/Bundles/allinone/Reni/flower.mat
@@ -369,6 +383,7 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/Case/Barricade.prefab
 - Assets/Skins_0/Bundles/mypony/M249/Item.prefab
 - Assets/Skins_0/Bundles/allinone/Reni/texture.mat
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Horizontal/Animations.prefab
 - Assets/Skins_0/Bundles/ZeroTwoV2/AK47.fbx
 - "Assets/Skins_0/Bundles/clan/TEXAS/\u0411\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.png"
 - Assets/Skins_0/Bundles/christmas2025/ChristmasGiftSkin/Door_Garage/Clip.prefab
@@ -388,6 +403,7 @@ Assets:
 - Assets/Skins_0/Bundles/clan/cubi/texture.mat
 - Assets/Skins_0/Bundles/allinone/Reni/Metal_Mask/Hat.prefab
 - Assets/Skins_0/Bundles/IceKing/Metal_Chestplate.fbx
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverHatchet_Metallic.jpg
 - Assets/Skins_0/Bundles/lighting/HMLMG/Item.prefab
 - Assets/Skins_0/Bundles/clan/zay/cat1.mat
 - Assets/Skins_0/Bundles/neonV2/CharcoalL/Barricade.prefab
@@ -429,19 +445,22 @@ Assets:
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/Metal_Chestplate/Item.prefab
 - Assets/Skins_0/Bundles/lighting/frame_52_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/ReZero/posters/500/6.mat
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverHatchetRope_Metallic.jpg
+- Assets/Skins_0/Bundles/AbyssPack/anims/axe_anims/Weak.anim
 - Assets/Skins_0/Bundles/neonV2/GunsL/Nav.prefab
-- Assets/Skins_0/Bundles/summer2025/SummerVibes/Door_Metal/Animations.prefab
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin1/texture.jpg
 - Assets/Skins_0/Bundles/summer2025/beach/white.mat
+- Assets/Skins_0/Bundles/summer2025/SummerVibes/Door_Metal/Animations.prefab
 - Assets/Skins_0/Bundles/Universe/secondtex.mat
 - Assets/Skins_0/Bundles/clan/yeetless/particle.mat
 - Assets/Skins_0/Bundles/lighting/Metal_Chestplate.fbx
-- Assets/Skins_0/Bundles/ReZero/Rem/hornoutline.mat
+- Assets/Skins_0/Bundles/AbyssPack/anims/pickaxe_anims/Equip.anim
 - Assets/Skins_0/Bundles/phoenix/particle.png
+- Assets/Skins_0/Bundles/ReZero/Rem/hornoutline.mat
 - Assets/Skins_0/Bundles/ReZero/posters/501/frame_07_delay-0.09s.jpg
 - Assets/Skins_0/Bundles/phoenix/LR300.fbx
-- Assets/Skins_0/Bundles/clan/OrphanSlayer/items.anim
 - Assets/Skins_0/Bundles/camos/desert_camo/Metal_Mask/Hat.prefab
+- Assets/Skins_0/Bundles/clan/OrphanSlayer/items.anim
 - Assets/Skins_0/Bundles/ZeroTwoV2/Red.mat
 - Assets/Skins_0/Bundles/Universe/Jagger_Vest/Animations.prefab
 - Assets/Skins_0/Bundles/Universe/M249/Item.prefab
@@ -458,6 +477,7 @@ Assets:
 - Assets/Skins_0/Bundles/Halloween2025/Blair/0 2.mat
 - Assets/Skins_0/Bundles/neonV2/FoodL/Item.prefab
 - Assets/Skins_0/Bundles/allinone/Slizu/blob.png
+- Assets/Skins_0/Bundles/AbyssPack/materials/abyss_dlc_storage_vertical.mat
 - Assets/Skins_0/Bundles/DarkMatter/anim.controller
 - Assets/Skins_0/Bundles/kai/femboy/AK47.fbx
 - Assets/Skins_0/Bundles/lighting/Animations/Door/Close.anim
@@ -490,8 +510,9 @@ Assets:
 - Assets/Skins_0/Bundles/allinone/Slizu/L96/Animations.prefab
 - Assets/Skins_0/Bundles/ReZero/posters/501/7.mat
 - Assets/Skins_0/Bundles/lighting/Bed/Nav.prefab
-- Assets/Skins_0/Bundles/lighting/frame_51_delay-0.05s.jpg
+- Assets/Skins_0/Bundles/AbyssPack/anims/pickaxe_anims/Weak.anim
 - Assets/Skins_0/Bundles/phoenix/552400FC9E7691C22287E31D96092954D25D4972.jpg
+- Assets/Skins_0/Bundles/lighting/frame_51_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/neonV2/Clothes/Clip.prefab
 - Assets/Skins_0/Bundles/lighting/frame_03_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/clan/Cruz0/LR300/Animations.prefab
@@ -510,16 +531,19 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/Animations/AK47/Aim_Start.anim
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin2/Door_Garage_Locked/Barricade.prefab
 - Assets/Skins_0/Bundles/mypony/Add.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultRifleParts_Normal.jpg
 - Assets/Skins_0/Bundles/kai/femboy/M249.fbx
 - Assets/Skins_0/Bundles/ReZero/posters/500/1.mat
 - Assets/Skins_0/Bundles/Summer2026/Beach/15.png
 - Assets/Skins_0/Bundles/ZeroTwoV2/outline.mat
 - Assets/Skins_0/Bundles/IceKing/Metal_Chestplate/Animations.prefab
+- Assets/Skins_0/Bundles/AbyssPack/AK47/Animations.prefab
 - Assets/Skins_0/Bundles/summer2025/wattameloon/AK47/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/ClothesL/Clip.prefab
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/Bag_Sleeping/Nav.prefab
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/Large.fbx
 - Assets/Skins_0/Bundles/CodeGeass/cape.png
+- Assets/Skins_0/Bundles/AbyssPack/materials/abyss_dlc_storage_netting.mat
 - Assets/Skins_0/Bundles/clan/zay/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin1/Metal_Mask/Item.prefab
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin1/Door_Garage/Barricade.prefab
@@ -548,6 +572,7 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/frame_26_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/allinone/Slizu/Animations/Large/Equip.anim
 - Assets/Skins_0/Bundles/CodeGeass/darkblue.mat
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Horizontal.fbx
 - Assets/Skins_0/Bundles/lighting/10 6.mat
 - Assets/Skins_0/Bundles/lighting/Locker_Locked/Barricade.prefab
 - Assets/Skins_0/Bundles/neonV2/CompsL/Item.prefab
@@ -555,6 +580,7 @@ Assets:
 - Assets/Skins_0/Bundles/kai/femboy/LR300/Animations.prefab
 - Assets/Skins_0/Bundles/neonV2/AmmoL/Animations.prefab
 - Assets/Skins_0/Bundles/ReZero/posters/501/15.mat
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Vertical/Animations.prefab
 - Assets/Skins_0/Bundles/ReZero/posters/Animations/Equip.anim
 - Assets/Skins_0/Bundles/clan/cubi/Animations/Rock/Strong.anim
 - Assets/Skins_0/Bundles/clan/zay/cat.jpg
@@ -567,8 +593,10 @@ Assets:
 - Assets/Skins_0/Bundles/neonV2/Charcoal/Barricade.prefab
 - Assets/Skins_0/Bundles/Halloween2025/Blair/0 9.mat
 - Assets/Skins_0/Bundles/lighting/frame_49_delay-0.05s.jpg
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultBarrel_Normal.jpg
 - Assets/Skins_0/Bundles/ReZero/posters/501/frame_00_delay-0.08s.jpg
 - Assets/Skins_0/Bundles/mypony/tex0chest.mat
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Vertical/Nav.prefab
 - Assets/Skins_0/Bundles/clan/TEXAS/Animations/MP5/Hammer.anim
 - Assets/Skins_0/Bundles/halo/anims/Equip.anim
 - Assets/Skins_0/Bundles/ReZero/Rem/AK47/Item.prefab
@@ -590,8 +618,9 @@ Assets:
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin/AK47/Item.prefab
 - Assets/Skins_0/Bundles/lighting/frame_20_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/clan/TEXAS/L96/Item.prefab
-- Assets/Skins_0/Bundles/neonV2/OreL/Animations.prefab
 - Assets/Skins_0/Bundles/lighting/Animations/L96/Reload.anim
+- Assets/Skins_0/Bundles/neonV2/OreL/Animations.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Vertical/Item.prefab
 - Assets/Skins_0/Bundles/summer2025/beach/beachball.fbx
 - Assets/Skins_0/Bundles/clan/yeetless/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/DarkMatter/L96/Item.prefab
@@ -615,6 +644,7 @@ Assets:
 - Assets/Skins_0/Bundles/kai/femboy/Metal_Mask.fbx
 - Assets/Skins_0/Bundles/lighting/Animations/M249/Attach_Start.anim
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin2/Door_Garage.fbx
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultRifleRope_Normal.jpg
 - Assets/Skins_0/Bundles/kai/femboy/femboy0.png
 - Assets/Skins_0/Bundles/Halloween2025/Pumpkin/AK47.fbx
 - Assets/Skins_0/Bundles/allinone/Slizu/Metal_Chestplate.fbx
@@ -636,11 +666,11 @@ Assets:
 - Assets/Skins_0/Bundles/summer2025/SummerVibes/Door_Metal/Barricade.prefab
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/clan/cubi/AK47/Item.prefab
-- Assets/Skins_0/Bundles/clan/OrphanSlayer/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/clan/yeetless/Large_Backpack/Item.prefab
+- Assets/Skins_0/Bundles/clan/yeetless/Metal_Chestplate/Vest.prefab
+- Assets/Skins_0/Bundles/clan/OrphanSlayer/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/LR300/Animations.prefab
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/HMLMG.fbx
-- Assets/Skins_0/Bundles/clan/yeetless/Metal_Chestplate/Vest.prefab
 - Assets/Skins_0/Bundles/rainbow/LR300/Animations.prefab
 - Assets/Skins_0/Bundles/shockbyte/1.mat
 - Assets/Skins_0/Bundles/clan/TEXAS/AK47/Item.prefab
@@ -648,9 +678,10 @@ Assets:
 - Assets/Skins_0/Bundles/IceKing/Metal_Chestplate/Item.prefab
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/Metal_Chestplate/Vest.prefab
 - Assets/Skins_0/Bundles/clan/zay/AK47.fbx
-- Assets/Skins_0/Bundles/neonV2/Elec/Clip.prefab
+- Assets/Skins_0/Bundles/AbyssPack/materials/abyss_dlc_storage_horizontal.mat
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/4.mat
 - Assets/Skins_0/Bundles/camos/snow_camo/Metal_Mask/Animations.prefab
+- Assets/Skins_0/Bundles/neonV2/Elec/Clip.prefab
 - Assets/Skins_0/Bundles/clan/yeetless/AK47/Animations.prefab
 - Assets/Skins_0/Bundles/mypony/tex0mask .png
 - Assets/Skins_0/Bundles/ZeroTwoV2/AK47/Item.prefab
@@ -667,6 +698,7 @@ Assets:
 - Assets/Skins_0/Bundles/clan/zay/cat1.png
 - Assets/Skins_0/Bundles/DarkMatter/AK47/Animations.prefab
 - Assets/Skins_0/Bundles/ReZero/posters/500/frame_10_delay-0.09s.jpg
+- Assets/Skins_0/Bundles/AbyssPack/Axe/Item.prefab
 - Assets/Skins_0/Bundles/clan/cubi/LR300/Animations.prefab
 - Assets/Skins_0/Bundles/ReZero/posters/500/2.mat
 - Assets/Skins_0/Bundles/rainbow/L96/Animations.prefab
@@ -715,6 +747,7 @@ Assets:
 - Assets/Skins_0/Bundles/CodeGeass/lelouch.mat
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin/115b6ea46156f28557af06d251411d98.jpg
 - Assets/Skins_0/Bundles/Halloween2025/Blair/6-0000.jpg
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverHatchetRope_Normal.jpg
 - Assets/Skins_0/Bundles/neonV2/_textures/elecmain.png
 - Assets/Skins_0/Bundles/clan/TEXAS/stone.mat
 - Assets/Skins_0/Bundles/lighting/Bed/Barricade.prefab
@@ -733,15 +766,18 @@ Assets:
 - Assets/Skins_0/Bundles/neonV2/_textures/compsbump.png
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin1/HMLMG/Item.prefab
 - Assets/Skins_0/Bundles/clan/Cruz0/Metal_Chestplate/Vest.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultRifleRope_Albedo.jpg
 - Assets/Skins_0/Bundles/JungleAK/JungleAR_D_Albedo.jpg
 - Assets/Skins_0/Bundles/kai/femboy/femboy.mat
 - Assets/Skins_0/Bundles/clan/cubi/Animations/Thompson/Equip.anim
 - Assets/Skins_0/Bundles/mypony/tex1lr300.png
 - Assets/Skins_0/Bundles/lighting/HMLMG.fbx
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/5.png
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Colliders.fbx
 - Assets/Skins_0/Bundles/neonV2/Tools/Barricade.prefab
 - Assets/Skins_0/Bundles/shockbyte/Animations/Cupboard/Use.anim
 - Assets/Skins_0/Bundles/neonV2/SulfurL/Item.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultRifleParts_Metallic.jpg
 - Assets/Skins_0/Bundles/ReZero/posters/501/frame_11_delay-0.08s.jpg
 - Assets/Skins_0/Bundles/DarkMatter/anim.anim
 - Assets/Skins_0/Bundles/summer2025/beach/AK47.fbx
@@ -759,11 +795,12 @@ Assets:
 - Assets/Skins_0/Bundles/camos/animations/road_sign_chestplate/Equip.anim
 - Assets/Skins_0/Bundles/camos/desert_camo/Metal_Mask/Animations.prefab
 - Assets/Skins_0/Bundles/rainbow/AK47/Item.prefab
-- Assets/Skins_0/Bundles/phoenix/particle.mat
+- Assets/Skins_0/Bundles/AbyssPack/materials/ak47_main.mat
 - Assets/Skins_0/Bundles/lighting/6 4.mat
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/Bag_Sleeping/Barricade.prefab
 - Assets/Skins_0/Bundles/barrels/horizontal/Case/Clip.prefab
 - Assets/Skins_0/Bundles/halo/Metal_Mask/Hat.prefab
+- Assets/Skins_0/Bundles/phoenix/particle.mat
 - Assets/Skins_0/Bundles/clan/TEXAS/nebulaanim.anim
 - Assets/Skins_0/Bundles/lighting/frame_21_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin2/Equip.anim
@@ -772,6 +809,7 @@ Assets:
 - Assets/Skins_0/Bundles/barrels/vertical/Case_Locked/Barricade.prefab
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/M249/Animations.prefab
 - Assets/Skins_0/Bundles/Summer2026/Beach/AK47/Animations.prefab
+- Assets/Skins_0/Bundles/AbyssPack/materials/DiverHatchet Rope.mat
 - Assets/Skins_0/Bundles/clan/Cruz0/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/lighting/7 4.mat
 - Assets/Skins_0/Bundles/Halloween2025/CoffinBackPack/coffin1.mat
@@ -815,6 +853,7 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/frame_19_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/lighting/1 3.mat
 - Assets/Skins_0/Bundles/ReZero/posters/500/frame_07_delay-0.09s.jpg
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverHatchet_Albedo.jpg
 - Assets/Skins_0/Bundles/camos/desert_camo/Jagger_Helmet/Hat.prefab
 - Assets/Skins_0/Bundles/Halloween2025/Pumpkin/pumpkin.mat
 - Assets/Skins_0/Bundles/camos/desert_camo/Road_Sign_Chestplate/Animations.prefab
@@ -855,6 +894,7 @@ Assets:
 - Assets/Skins_0/Bundles/neonV2/Ammo/Item.prefab
 - Assets/Skins_0/Bundles/barrels/SingleColor.mat
 - Assets/Skins_0/Bundles/ReZero/posters/501/8.mat
+- Assets/Skins_0/Bundles/AbyssPack/materials/DiverHatchet.mat
 - Assets/Skins_0/Bundles/lighting/1 1.mat
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/Metal_Mask.fbx
 - Assets/Skins_0/Bundles/allinone/Reni/123.png
@@ -917,15 +957,16 @@ Assets:
 - Assets/Skins_0/Bundles/neonV2/Stone/Nav.prefab
 - Assets/Skins_0/Bundles/lighting/Animations/LR300/Sprint_Stop.anim
 - Assets/Skins_0/Bundles/lighting/Bag_Sleeping/Clip.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverPickaxe_Albedo.jpg
 - Assets/Skins_0/Bundles/clan/cubi/Animations/Thompson/Reload.anim
-- Assets/Skins_0/Bundles/lighting/2 1.mat
 - Assets/Skins_0/Bundles/CodeGeass/purple.mat
 - Assets/Skins_0/Bundles/ReZero/posters/501/frame_13_delay-0.09s.jpg
 - Assets/Skins_0/Bundles/kai/femboy/Metal_Mask/Hat.prefab
 - Assets/Skins_0/Bundles/ReZero/posters/500/15.mat
-- Assets/Skins_0/Bundles/neonV2/OreL/Clip.prefab
+- Assets/Skins_0/Bundles/lighting/2 1.mat
 - Assets/Skins_0/Bundles/halo/anims/Skeleton_Reload.anim
 - Assets/Skins_0/Bundles/mypony/LR300/Item.prefab
+- Assets/Skins_0/Bundles/neonV2/OreL/Clip.prefab
 - Assets/Skins_0/Bundles/ReZero/posters/501/frame_16_delay-0.09s.jpg
 - Assets/Skins_0/Bundles/ReZero/Rem/outline.mat
 - Assets/Skins_0/Bundles/neonV2/Armor/Clip.prefab
@@ -950,13 +991,14 @@ Assets:
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin2/Metal_Chestplate/Animations.prefab
 - Assets/Newmodfolder/laughingcoffinmod/items/clothing/shirts/undershirt/Shirt.png
 - Assets/Skins_0/Bundles/neonV2/SulfurL/Clip.prefab
-- Assets/Skins_0/Bundles/Summer2026/Beach/3.png
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Horizontal/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/GunsL/Clip.prefab
 - Assets/Skins_0/Bundles/phoenix/M249.fbx
 - Assets/Skins_0/Bundles/Halloween2025/CoffinBackPack/Large_Backpack/Item.prefab
 - Assets/Skins_0/Bundles/rainbow/AK47.fbx
 - Assets/Skins_0/Bundles/lighting/Locker/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/Ore/Clip.prefab
+- Assets/Skins_0/Bundles/Summer2026/Beach/3.png
 - Assets/Skins_0/Bundles/summer2025/LifeBoat/texture_01.mat
 - Assets/Skins_0/Bundles/lighting/frame_50_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/IceKing/Metal_Chestplate/Vest.prefab
@@ -989,6 +1031,7 @@ Assets:
 - Assets/Skins_0/Bundles/Universe/LR300/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/BoomL/Item.prefab
 - Assets/Skins_0/Bundles/ZeroTwoV2/poster_501/Item.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Axe.fbx
 - Assets/Skins_0/Bundles/lighting/4 4.mat
 - Assets/Skins_0/Bundles/clan/TEXAS/Animations/MP5/Aim_Stop.anim
 - Assets/Skins_0/Bundles/mypony/tex2ak.mat
@@ -1027,6 +1070,7 @@ Assets:
 - Assets/Skins_0/Bundles/Summer2026/Beach/8.png
 - Assets/Skins_0/Bundles/lighting/frame_16_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/clan/Cruz0/texture.png
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultGrip_Albedo.jpg
 - Assets/Skins_0/Bundles/neonV2/Tools/Clip.prefab
 - Assets/Skins_0/Bundles/summer2025/wattameloon/M249/Item.prefab
 - Assets/Skins_0/Bundles/clan/TEXAS/vecteezy_image-of-an-expanding-universe-shot-from-far-away-with-many_29842226.jpg
@@ -1057,9 +1101,9 @@ Assets:
 - Assets/Skins_0/Bundles/halo/AK47/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/Clothes/Nav.prefab
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/Bag_Sleeping/Clip.prefab
+- Assets/Skins_0/Bundles/halo/Door_Garage/Nav.prefab
 - Assets/Skins_0/Bundles/Halloween2025/Pumpkin/AK47/Item.prefab
 - Assets/Skins_0/Bundles/ReZero/Rem/Maze.mat
-- Assets/Skins_0/Bundles/halo/Door_Garage/Nav.prefab
 - Assets/Skins_0/Bundles/lighting/Metal_Mask/Item.prefab
 - Assets/Skins_0/Bundles/camos/desert.mat
 - Assets/Skins_0/Bundles/lighting/4 1.mat
@@ -1077,10 +1121,12 @@ Assets:
 - Assets/Skins_0/Bundles/CodeGeass/Metal_Chestplate/Vest.prefab
 - Assets/Skins_0/Bundles/camos/desert_camo/Jagger_Helmet/Item.prefab
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin/HMLMG.fbx
+- Assets/Skins_0/Bundles/AbyssPack/Textures/abyss_dlc_storage_vertical_mg.jpg
 - Assets/Skins_0/Bundles/clan/zay/LR300/Animations.prefab
 - Assets/Skins_0/Bundles/lighting/frame_15_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/neonV2/Drop/Nav.prefab
 - Assets/Skins_0/Bundles/lighting/3 4.mat
+- Assets/Skins_0/Bundles/AbyssPack/anims/axe_anims/Strong.anim
 - Assets/Skins_0/Bundles/Halloween2025/Blair/13-0000.jpg
 - Assets/Skins_0/Bundles/neonV2/ElecL/Barricade.prefab
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/LR300/Animations.prefab
@@ -1116,6 +1162,7 @@ Assets:
 - Assets/Skins_0/Bundles/halo/Aim_Stop.anim
 - Assets/Skins_0/Bundles/clan/TEXAS/Metal_Mask/Animations.prefab
 - Assets/Skins_0/Bundles/halo/Image_1.png
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverPickaxe_Metallic.jpg
 - Assets/Skins_0/Bundles/neonV2/Meds/Item.prefab
 - Assets/Skins_0/Bundles/halo/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/neonV2/_textures/dropmain.png
@@ -1238,11 +1285,11 @@ Assets:
 - Assets/Skins_0/Bundles/clan/TEXAS/stanim.anim
 - Assets/Skins_0/Bundles/lighting/Animations/L96/Aim_Stop.anim
 - Assets/Skins_0/Bundles/camos/desert_camo/Metal_Chestplate/Item.prefab
-- Assets/Skins_0/Bundles/ReZero/posters/500/frame_15_delay-0.09s.jpg
-- Assets/Skins_0/Bundles/summer2025/SummerVibes/Use.anim
 - Assets/Skins_0/Bundles/halo/Door_Garage/Close.anim
-- Assets/Skins_0/Bundles/barrels/vertical/Case_Locked/Animations.prefab
+- Assets/Skins_0/Bundles/ReZero/posters/500/frame_15_delay-0.09s.jpg
 - Assets/Skins_0/Bundles/lighting/7 1.mat
+- Assets/Skins_0/Bundles/barrels/vertical/Case_Locked/Animations.prefab
+- Assets/Skins_0/Bundles/summer2025/SummerVibes/Use.anim
 - Assets/Skins_0/Bundles/clan/TEXAS/MP5/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/Food/Animations.prefab
 - Assets/Skins_0/Bundles/lighting/Animations/L96/Sprint_Stop.anim
@@ -1254,10 +1301,13 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/6.mat
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/L96/Item.prefab
 - Assets/Skins_0/Bundles/lighting/frame_14_delay-0.05s.jpg
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultRifleParts_Albedo.jpg
 - Assets/Skins_0/Bundles/mypony/Metal_Mask/Animations.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/abyss_dlc_storage_netting_bc.png
 - Assets/Skins_0/Bundles/neonV2/ElecL/Clip.prefab
 - Assets/Skins_0/Bundles/neonV2/Guns/Nav.prefab
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/Large_Backpack/Item.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Horizontal/Barricade.prefab
 - Assets/Skins_0/Bundles/barrels/vertical/Case/Item.prefab
 - Assets/Skins_0/Bundles/lighting/frame_13_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/allinone/Slizu/Metal_Chestplate/Item.prefab
@@ -1274,9 +1324,10 @@ Assets:
 - Assets/Skins_0/Bundles/halo/Image_0_.jpg
 - Assets/Skins_0/Bundles/clan/TEXAS/stanim.controller
 - Assets/Skins_0/Bundles/CodeGeass/AK47/Item.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Horizontal/Clip.prefab
 - Assets/Skins_0/Bundles/barrels/horizontal/Case_Locked/Animations.prefab
-- Assets/Skins_0/Bundles/halo/magazine.fbx
 - Assets/Skins_0/Bundles/kai/femboy/AK47/Animations.prefab
+- Assets/Skins_0/Bundles/halo/magazine.fbx
 - Assets/Skins_0/Bundles/lighting/5 3.mat
 - Assets/Skins_0/Bundles/mypony/L96/Animations.prefab
 - Assets/Skins_0/Bundles/ReZero/posters/501/3.mat
@@ -1324,6 +1375,7 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/frame_36_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/neonV2/_textures/frags.mat
 - Assets/Skins_0/Bundles/CodeGeass/Metal_Mask/Item.prefab
+- Assets/Skins_0/Bundles/AbyssPack/anims/axe_anims/Equip.anim
 - Assets/Skins_0/Bundles/neonV2/MedsL/Clip.prefab
 - Assets/Skins_0/Bundles/clan/zay/M249.fbx
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/AK47/Item.prefab
@@ -1334,6 +1386,7 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/1.mat
 - Assets/Skins_0/Bundles/mypony/tex0ak.png
 - Assets/Skins_0/Bundles/clan/TEXAS/Animations/MP5/Aim_Start.anim
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultGrip_Normal.jpg
 - Assets/Skins_0/Bundles/summer2025/LifeBoat/Bag_Sleeping.fbx
 - Assets/Skins_0/Bundles/lighting/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/halo/Door_Garage_Locked/Nav.prefab
@@ -1350,6 +1403,7 @@ Assets:
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin/AK47.fbx
 - Assets/Skins_0/Bundles/clan/zay/Metal_Chestplate/Vest.prefab
 - Assets/Skins_0/Bundles/neonV2/_textures/fragsemission.png
+- Assets/Skins_0/Bundles/AbyssPack/AK47.fbx
 - Assets/Skins_0/Bundles/JungleAK/AK47/Animations.prefab
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin2/AK47/Animations.prefab
 - Assets/Skins_0/Bundles/clan/cubi/Thompson/Animations.prefab
@@ -1360,6 +1414,7 @@ Assets:
 - Assets/Skins_0/Bundles/summer2025/wattameloon/melonparticle.png
 - Assets/Skins_0/Bundles/kai/femboy/M249/Animations.prefab
 - Assets/Skins_0/Bundles/summer2025/wattameloon/HMLMG.fbx
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Horizontal/Nav.prefab
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/Bag_Sleeping.fbx
 - Assets/Skins_0/Bundles/camos/forest_camo/Jagger_Helmet/Item.prefab
 - Assets/Skins_0/Bundles/camos/forest_camo/Road_Sign_Chestplate/Vest.prefab
@@ -1382,7 +1437,9 @@ Assets:
 - Assets/Skins_0/Bundles/halo/5.56_Ammo_HV.asset
 - Assets/Skins_0/Bundles/Halloween2025/Blair/0 15.mat
 - Assets/Skins_0/Bundles/ReZero/Ram/AK47.fbx
+- Assets/Skins_0/Bundles/AbyssPack/Textures/abyss_dlc_storage_horizontal_bc.jpg
 - Assets/Skins_0/Bundles/neonV2/FragsL/Nav.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultBarrel_Albedo.jpg
 - Assets/Skins_0/Bundles/Halloween2025/Pumpkin/pumpkinskin.jpg
 - Assets/Skins_0/Bundles/lighting/11.mat
 - Assets/Skins_0/Bundles/clan/Cruz0/Metal_Mask/Hat.prefab
@@ -1404,17 +1461,20 @@ Assets:
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin1/M249/Item.prefab
 - Assets/Skins_0/Bundles/lighting/3 3.mat
 - Assets/Skins_0/Bundles/ReZero/posters/500/13.mat
+- Assets/Skins_0/Bundles/AbyssPack/materials/DiverAssaultRifleParts1.mat
 - Assets/Skins_0/Bundles/allinone/Reni/L96/Animations.prefab
 - Assets/Skins_0/Bundles/clan/zay/Metal_Chestplate.fbx
 - Assets/Skins_0/Bundles/halo/animation.fbx
+- Assets/Skins_0/Bundles/AbyssPack/Textures/abyss_dlc_storage_horizontal_nrm.jpg
 - Assets/Skins_0/Bundles/camos/snow_camo/Metal_Mask/Item.prefab
-- Assets/Skins_0/Bundles/ZeroTwoV2/Metal_Mask.fbx
 - Assets/Skins_0/Bundles/lighting/Animations/Model_0.controller
 - Assets/Skins_0/Bundles/lighting/Case_Locked/Animations.prefab
+- Assets/Skins_0/Bundles/ZeroTwoV2/Metal_Mask.fbx
 - Assets/Skins_0/Bundles/clan/cubi/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/rainbow/LR300/Item.prefab
 - Assets/Skins_0/Bundles/lighting/frame_05_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/clan/Cruz0/texture.mat
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultBarrel_Metallic.jpg
 - Assets/Skins_0/Bundles/neonV2/GunsL/Barricade.prefab
 - Assets/Skins_0/Bundles/lighting/7.mat
 - Assets/Skins_0/Bundles/neonV2/WoodL/Animations.prefab
@@ -1464,6 +1524,7 @@ Assets:
 - Assets/Skins_0/Bundles/halo/halo_magazine/Magazine.prefab
 - Assets/Skins_0/Bundles/neonV2/WoodL/Item.prefab
 - Assets/Skins_0/Bundles/lighting/6 3.mat
+- Assets/Skins_0/Bundles/AbyssPack/Pickaxe/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/_textures/dropemission.png
 - Assets/Skins_0/Bundles/neonV2/_textures/armorbump.png
 - Assets/Skins_0/Bundles/camos/desert_camo/Coffee_Helmet/Item.prefab
@@ -1476,6 +1537,7 @@ Assets:
 - Assets/Skins_0/Bundles/ReZero/posters/500/frame_12_delay-0.09s.jpg
 - Assets/Skins_0/Bundles/christmas2025/ChristmasGiftSkin/Metal_Chestplate/Item.prefab
 - Assets/Skins_0/Bundles/christmas2025/ChristmasGiftSkin/texture.jpg
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverPickaxe_Normal.jpg
 - Assets/Skins_0/Bundles/Summer2026/Beach/18.mat
 - Assets/Skins_0/Bundles/CodeGeass/Metal_Chestplate/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/WoodL/Barricade.prefab
@@ -1552,6 +1614,7 @@ Assets:
 - Assets/Skins_0/Bundles/Halloween2025/Blair/12-0000.jpg
 - Assets/Skins_0/Bundles/Summer2026/Beach/14.mat
 - Assets/Skins_0/Bundles/neonV2/Meds/Nav.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultBody_Metallic.jpg
 - Assets/Skins_0/Bundles/neonV2/_textures/clothesemission.png
 - Assets/Skins_0/Bundles/neonV2/Boom/Animations.prefab
 - Assets/Skins_0/Bundles/clan/yeetless/Bag_Sleeping/Animations.prefab
@@ -1581,11 +1644,12 @@ Assets:
 - Assets/Skins_0/Bundles/ReZero/Rem/AK47.fbx
 - Assets/Skins_0/Bundles/ReZero/posters/501/frame_19_delay-0.08s.jpg
 - Assets/Skins_0/Bundles/lighting/frame_24_delay-0.05s.jpg
-- Assets/Skins_0/Bundles/neonV2/ScrapL/Nav.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Vertical.fbx
 - Assets/Skins_0/Bundles/lighting/frame_54_delay-0.05s.jpg
-- Assets/Skins_0/Bundles/summer2025/wattameloon/LR300.fbx
+- Assets/Skins_0/Bundles/neonV2/ScrapL/Nav.prefab
 - Assets/Skins_0/Bundles/kai/femboy/femboy0.mat
 - Assets/Skins_0/Bundles/halo/anims/Reload.anim
+- Assets/Skins_0/Bundles/summer2025/wattameloon/LR300.fbx
 - Assets/Skins_0/Bundles/kai/femboy/Metal_Mask/Animations.prefab
 - Assets/Skins_0/Bundles/ReZero/posters/Animations/frameswitcher/500.controller
 - Assets/Skins_0/Bundles/Summer2026/AdrenalineRush/Model_2_Action.anim
@@ -1598,6 +1662,7 @@ Assets:
 - Assets/Skins_0/Bundles/Universe/L96/Animations.prefab
 - Assets/Skins_0/Bundles/mypony/LR300/Animations.prefab
 - Assets/Skins_0/Bundles/neonV2/Elec/Item.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Barrel_Vertical/Clip.prefab
 - Assets/Skins_0/Bundles/lighting/9 4.mat
 - Assets/Skins_0/Bundles/halo/Door_Garage/Open.anim
 - Assets/Skins_0/Bundles/ZeroTwoV2/Metal_Mask/Item.prefab
@@ -1613,6 +1678,7 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/2 3.mat
 - Assets/Skins_0/Bundles/ReZero/posters/501/frame_18_delay-0.08s.jpg
 - Assets/Skins_0/Bundles/Halloween2025/Blair/0 18.mat
+- Assets/Skins_0/Bundles/AbyssPack/Textures/abyss_dlc_storage_netting_nrm.png
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/Metal_Chestplate/Item.prefab
 - Assets/Skins_0/Bundles/lighting/Locker/Barricade.prefab
 - Assets/Skins_0/Bundles/camos/snow_camo/Jagger_Vest/Item.prefab
@@ -1650,6 +1716,7 @@ Assets:
 - Assets/Skins_0/Bundles/neonV2/Clothes/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/ClothesL/Animations.prefab
 - Assets/Skins_0/Bundles/camos/snow_camo/Coffee_Helmet/Item.prefab
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultGrip_Metallic.jpg
 - Assets/Skins_0/Bundles/neonV2/_textures/foodmain.png
 - Assets/Skins_0/Bundles/allinone/Reni/Metal_Chestplate/Item.prefab
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin2/Door_Garage/Open.anim
@@ -1672,10 +1739,12 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/Animations/Double_Door/Open.anim
 - Assets/Skins_0/Bundles/DarkMatter/maintex.mat
 - Assets/Skins_0/Bundles/lighting/L96.fbx
+- Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultBody_Normal.jpg
 - Assets/Skins_0/Bundles/ReZero/posters/Cube.fbx
 - Assets/Skins_0/Bundles/clan/zay/AK47/Item.prefab
 - Assets/Skins_0/Bundles/Halloween2025/Blair/0 16.mat
 - Assets/Skins_0/Bundles/lighting/Case_1.asset
+- Assets/Skins_0/Bundles/AbyssPack/materials/pickaxe.mat
 - Assets/Skins_0/Bundles/lighting/Animations/LR300/Aim_Start.anim
 - Assets/Skins_0/Bundles/IceKing/New Material 3.mat
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/Bag_Sleeping/Animations.prefab
