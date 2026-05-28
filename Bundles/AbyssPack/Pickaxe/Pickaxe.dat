@@ -1,0 +1,44 @@
+﻿GUID 0cb3166fd3c34fd5baa9146a149fe548
+Type Melee
+Useable Melee
+Slot Any
+Rarity Rare
+ID 55271
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Range 2
+BladeIDs 3
+BladeID_0 2
+BladeID_1 4
+BladeID_2 0
+Strength 1.5
+Stamina 25
+Weak 0.33
+
+Player_Damage 30
+Player_Leg_Multiplier 0.8
+Player_Arm_Multiplier 0.8
+Player_Spine_Multiplier 1
+Player_Skull_Multiplier 1.5
+
+Zombie_Damage 34
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 34
+Animal_Leg_Multiplier 0.3
+Animal_Spine_Multiplier 0.6
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 15
+Structure_Damage 10
+Vehicle_Damage 25
+Resource_Damage 100
+Object_Damage 25
+
+Durability 0.05
