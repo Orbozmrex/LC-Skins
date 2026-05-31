@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2889844627
+CRC: 411671302
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f85eb3b16ced4da62d72ca8d0d2bc585
+    Hash: c17041fa14e532599e437c7d452389b4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 008e37ecdfdb69f673eb0eaa8d3bb4a9
@@ -1281,6 +1281,7 @@ Assets:
 - Assets/Skins_0/Bundles/ReZero/posters/500/frame_06_delay-0.09s.jpg
 - Assets/Skins_0/Bundles/halo/Door_Garage_Locked/Item.prefab
 - Assets/Skins_0/Bundles/clan/Cruz0/Thompson/Item.prefab
+- Assets/Skins_0/Bundles/clan/Dirty/sequence/alex.png
 - Assets/Skins_0/Bundles/neonV2/Scrap/Barricade.prefab
 - Assets/Skins_0/Bundles/Summer2026/Koi/LR300/Animations.prefab
 - Assets/Skins_0/Bundles/clan/TEXAS/L96/Animations.prefab
@@ -1852,6 +1853,7 @@ Assets:
 - Assets/Skins_0/Bundles/DarkMatter/maintex.mat
 - Assets/Skins_0/Bundles/lighting/L96.fbx
 - Assets/Skins_0/Bundles/Summer2026/Koi/L96/Item.prefab
+- Assets/Skins_0/Bundles/clan/Dirty/sequence/alex.mat
 - Assets/Skins_0/Bundles/AbyssPack/Textures/DiverAssaultBody_Normal.jpg
 - Assets/Skins_0/Bundles/ReZero/posters/Cube.fbx
 - Assets/Skins_0/Bundles/clan/zay/AK47/Item.prefab
