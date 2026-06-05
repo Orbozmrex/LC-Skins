@@ -2,7 +2,7 @@
 Type Gun
 Rarity Rare
 Useable Gun
-Slot Primary
+Slot Secondary
 Can_Use_Underwater False
 ID 55113
 
@@ -10,6 +10,7 @@ Size_X 2
 Size_Y 2
 Size_Z 0.6
 Size2_Z 0.55
+
 EquipAudioClip laughingcoffinmod.masterbundle:Items/Guns/MP5A4/Equip.wav
 ShootAudioClip laughingcoffinmod.masterbundle:Items/Guns/MP5A4/Shoot.ogg
 ReloadAudioClip laughingcoffinmod.masterbundle:Items/Guns/MP5A4/Reload.wav
@@ -22,6 +23,7 @@ Shell 6727
 Hook_Sight
 Hook_Tactical
 Hook_Barrel
+Hook_Grip
 
 Ammo_Min 5
 Ammo_Max 30

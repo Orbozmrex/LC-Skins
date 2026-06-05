@@ -2,7 +2,7 @@
 Type Gun
 Rarity Legendary
 Useable Gun
-Slot Primary
+Slot Secondary
 Can_Use_Underwater False
 ID 55007
 
@@ -16,7 +16,6 @@ ShootAudioClip laughingcoffinmod.masterbundle:Items/Guns/M249/Shoot.ogg
 ReloadAudioClip laughingcoffinmod.masterbundle:Items/Guns/M249/Reload.wav
 
 InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Guns.asset
-
 Magazine 5544
 Shell 6728
 
@@ -27,6 +26,7 @@ Hook_Barrel
 Ammo_Min 30
 Ammo_Max 100
 
+Safety
 Auto
 
 Caliber 5423

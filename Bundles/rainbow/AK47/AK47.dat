@@ -2,9 +2,14 @@
 Type Gun
 Rarity Epic
 Useable Gun
-Slot Primary
+Slot Secondary
 Can_Use_Underwater False
 ID 55028
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+Size2_Z 0.6
 
 EquipAudioClip laughingcoffinmod.masterbundle:Items/Guns/Assault_Rifle/Equip.wav
 ShootAudioClip laughingcoffinmod.masterbundle:Items/Guns/Assault_Rifle/Shoot.ogg
@@ -12,17 +17,13 @@ ReloadAudioClip laughingcoffinmod.masterbundle:Items/Guns/Assault_Rifle/Reload.w
 
 InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Guns.asset
 
-Size_X 2
-Size_Y 2
-Size_Z 0.7
-Size2_Z 0.6
-
 Magazine 5529
 Shell 6728
 
 Hook_Sight
 Hook_Tactical
 Hook_Barrel
+Hook_Grip
 
 Ammo_Min 10
 Ammo_Max 30

@@ -2,7 +2,7 @@
 Type Gun
 Rarity Epic
 Useable Gun
-Slot Primary
+Slot Secondary
 Can_Use_Underwater False
 ID 55059
 
@@ -23,6 +23,7 @@ Shell 6728
 Hook_Sight
 Hook_Tactical
 Hook_Barrel
+Hook_Grip
 
 Ammo_Min 10
 Ammo_Max 30

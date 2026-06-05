@@ -2,16 +2,19 @@ GUID 66cccd35544441eb82614acbaffbc586
 Type Gun
 Rarity Rare
 Useable Gun
-Slot Primary
+Slot Secondary
 Can_Use_Underwater False
 ID 55127
 
 Size_X 2
 Size_Y 2
 Size_Z 0.7
-ShootAudioClip Sounds/Thompson/Shoot.ogg
-ReloadAudioClip Sounds/Thompson/Reload.wav
-EquipAudioClip Sounds/Thompson/Equip.wav
+
+EquipAudioClip laughingcoffinmod.masterbundle:Items/Guns/Thompson/Equip.wav
+ShootAudioClip laughingcoffinmod.masterbundle:Items/Guns/Thompson/Shoot.ogg
+ReloadAudioClip laughingcoffinmod.masterbundle:Items/Guns/Thompson/Reload.wav
+
+InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Guns.asset
 
 Magazine 5522
 Shell 6727
@@ -63,8 +66,8 @@ Object_Damage 15
 
 Durability 0.15
 
-Spread_Aim 0.075
-Spread_Hip 0.2
+Spread_Aim 0.1
+Spread_Hip 0.1
 
 Recoil_Min_X -1.5
 Recoil_Min_Y 2
