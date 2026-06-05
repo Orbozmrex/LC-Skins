@@ -2,7 +2,7 @@
 Type Gun
 Rarity Epic
 Useable Gun
-Slot Primary
+Slot Secondary
 Can_Use_Underwater False
 ID 55138
 
@@ -10,6 +10,11 @@ Size_X 2
 Size_Y 2
 Size_Z 1
 Size2_Z 0.6
+EquipAudioClip laughingcoffinmod.masterbundle:Items/Guns/HMLMG/Equip.wav
+ShootAudioClip laughingcoffinmod.masterbundle:Items/Guns/HMLMG/Shoot.wav
+ReloadAudioClip laughingcoffinmod.masterbundle:Items/Guns/M249/Reload.wav
+
+InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Guns.asset
 
 Magazine 5552
 Shell 6728
@@ -21,13 +26,6 @@ Hook_Barrel
 Ammo_Min 30
 Ammo_Max 60
 
-EquipAudioClip laughingcoffinmod.masterbundle:Items/Guns/HMLMG/Equip.wav
-ShootAudioClip laughingcoffinmod.masterbundle:Items/Guns/HMLMG/Shoot.wav
-ReloadAudioClip laughingcoffinmod.masterbundle:Items/Guns/M249/Reload.wav
-
-InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Guns.asset
-
-Safety
 Auto
 
 Caliber 5428
@@ -67,8 +65,8 @@ Object_Damage 20
 
 Durability 0.15
 
-Spread_Aim 0.05
-Spread_Hip 0.15
+Spread_Aim 0.1
+Spread_Hip 0.1
 
 Recoil_Min_X -3
 Recoil_Min_Y 1.5
