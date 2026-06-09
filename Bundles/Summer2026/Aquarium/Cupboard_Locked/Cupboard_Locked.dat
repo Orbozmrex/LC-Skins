@@ -1,0 +1,23 @@
+﻿GUID 8527cb78ff284d1f84584334127a3b0b
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 55282
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 500
+Range 4
+Radius 0.5
+Offset 1.3
+
+Storage_X 20
+Storage_Y 20
+
+Explosion 36
+Should_Close_When_Outside_Range true
+Vulnerable
+Proof_Explosion
