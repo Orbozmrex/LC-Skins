@@ -1,0 +1,17 @@
+﻿GUID 4cb3d715e94b49c1a53a5f2c260f8761
+Type Barricade
+Useable Barricade
+Build Bed
+ID 55287
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 50
+Range 4
+Radius 0.2
+Offset 0.2
+
+Explosion 37
+Vulnerable
