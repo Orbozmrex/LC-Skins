@@ -1,0 +1,40 @@
+﻿GUID 9f3f818b9d554860b26375ab681884e8
+Type Sentry
+Rarity Epic
+Useable Barricade
+Allow_Placement_On_Vehicle False
+Build Sentry
+Has_Clip_Prefab False
+ID 55284
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Metal_Sheet.asset
+
+Health 150
+Range 4
+Radius 0.35
+Offset 0.35
+
+Storage_X 4
+Storage_Y 2
+Display
+Locked
+
+Mode Hostile
+Sweep_Yaw 160
+Detection_Radius 48
+Sweep_Period 6.7
+Target_Vehicles True
+Target_Players True
+Target_Zombies True
+Target_Animals True
+Target_Acquired_Effect 62ec2284991240ff9cb3bee4c6ee7c44
+Target_Lost_Effect de32dc31d5bd4730bb5e43260f9397e1
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+Infinite_Quality true
