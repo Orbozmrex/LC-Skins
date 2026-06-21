@@ -1,0 +1,23 @@
+﻿GUID c4295f18e5d44ec98234ed5087bc8c4d
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Allow_Placement_On_Vehicle False
+Build Door
+ID 55285
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Metal_Hollow_Large.asset
+PlacementAudioClip laughingcoffinmod.masterbundle:Items/Barricades/Door_Metal/Use.wav
+
+Health 750
+Range 4
+Radius 1
+Offset 1.25
+
+Armor_Tier 0
+
+Explosion 19
