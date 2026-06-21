@@ -5,7 +5,7 @@ Useable Barricade
 Allow_Placement_On_Vehicle False
 Build Sentry
 Has_Clip_Prefab False
-ID 55284
+ID 55288
 
 Size_X 2
 Size_Y 2
