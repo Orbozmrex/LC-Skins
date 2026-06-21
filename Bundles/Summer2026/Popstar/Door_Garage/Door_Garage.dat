@@ -1,0 +1,19 @@
+﻿GUID ab8cfa2a273647a693f21ae9571dfa34
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Gate
+ID 55295
+
+Size_X 2
+Size_Y 2
+Size_Z 0.7
+
+Health 900
+Range 4
+Radius 1.5
+Offset 0.25
+
+Explosion 36
+
+Allow_Collision_While_Animating true
