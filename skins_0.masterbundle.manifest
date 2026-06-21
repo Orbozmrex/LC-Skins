@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1500280139
+CRC: 1007835346
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c2ecb7fe54980044df50c52bba35f40c
+    Hash: d5d20126b587763bcc858d5e429783de
   TypeTreeHash:
     serializedVersion: 2
     Hash: 37840ac1dbb6a1de90276cad27758541
@@ -1289,6 +1289,7 @@ Assets:
 - Assets/Skins_0/Bundles/lighting/frame_15_delay-0.05s.jpg
 - Assets/Skins_0/Bundles/neonV2/Drop/Nav.prefab
 - Assets/Skins_0/Bundles/lighting/3 4.mat
+- Assets/Skins_0/Bundles/Summer2026/Turret/auto_turret/Item 1.prefab
 - Assets/Skins_0/Bundles/Halloween2025/Blair/13-0000.jpg
 - Assets/Skins_0/Bundles/neonV2/ElecL/Barricade.prefab
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/LR300/Animations.prefab
