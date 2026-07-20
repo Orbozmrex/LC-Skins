@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3650911151
+CRC: 2735994602
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 06c7525ebbe94ccf46934b8df4dda795
+    Hash: de7c095fa1e00c7abad952f4303bea73
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4d876fb4277a5400ef33fcdd0f8a6a9f
+    Hash: 41b3919f17f149e1f670b31cbb436cb5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -46,6 +46,10 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e33f69f25dbb4a64395561c0ea3c68ff, type: 3}
+- Class: 115
   Script: {instanceID: 0}
 - Class: 134
   Script: {instanceID: 0}
@@ -133,6 +137,7 @@ Assets:
 - Assets/Skins_0/Bundles/clan/zay/LR300/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/StoneL/Barricade.prefab
 - Assets/Skins_0/Bundles/Summer2026/BeachTowel/Default/Clip.prefab
+- Assets/Skins_0/FlexItems/Yeetless/Sounds/Use.wav
 - Assets/Skins_0/KillEffects/Summer2026/misc/butterfly-NoGlow3.png
 - Assets/Skins_0/Bundles/camos/snow_camo/Jagger_Helmet/Hat.prefab
 - Assets/Skins_0/Bundles/neonV2/_textures/ammoemission.png
@@ -396,6 +401,7 @@ Assets:
 - Assets/Skins_0/Bundles/Halloween2025/Pumpkin/pumpkin.png
 - Assets/Skins_0/Bundles/Halloween2025/CoffinBackPack/coffin_Base_color.png
 - Assets/Skins_0/Bundles/clan/Wasyl/metal_chestplate.fbx
+- Assets/Skins_0/FlexItems/Yeetless/metal_metalic.png
 - Assets/Skins_0/Bundles/clan/cubi/texture.png
 - Assets/Skins_0/Bundles/allinone/Reni/AK47.fbx
 - Assets/Skins_0/Bundles/Summer2026/Aquarium/Fish.controller
@@ -502,6 +508,7 @@ Assets:
 - Assets/Skins_0/Bundles/Summer2026/Koi/L96/Animations.prefab
 - Assets/Skins_0/Bundles/clan/Dirty/sequence/Sana.mat
 - Assets/Skins_0/Bundles/clan/Dirty/sequence/Dirty.png
+- Assets/Skins_0/FlexItems/Yeetless/New Material 2.mat
 - Assets/Skins_0/Bundles/clan/zay/cat1.mat
 - Assets/Skins_0/Bundles/neonV2/CharcoalL/Barricade.prefab
 - Assets/Skins_0/Bundles/clan/yeetless/Bag_Sleeping/Barricade.prefab
@@ -658,6 +665,7 @@ Assets:
 - Assets/Skins_0/Bundles/ZeroTwoV2/outline.mat
 - Assets/Skins_0/Bundles/IceKing/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/AbyssPack/AK47/Animations.prefab
+- Assets/Skins_0/FlexItems/Yeetless/metal.png
 - Assets/Skins_0/Bundles/summer2025/wattameloon/AK47/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/ClothesL/Clip.prefab
 - Assets/Skins_0/Bundles/clan/OrphanSlayer/Bag_Sleeping/Nav.prefab
@@ -1012,6 +1020,7 @@ Assets:
 - Assets/Skins_0/Bundles/clan/Dirty/sequence/Tyapka.mat
 - Assets/Skins_0/Bundles/lighting/Animations/M249/Sprint_Stop.anim
 - Assets/Skins_0/Bundles/clan/Wasyl/effect/cfxr ghost trail blue.png
+- Assets/Skins_0/FlexItems/Yeetless/DragonSlayer/Item.prefab
 - Assets/Skins_0/Bundles/clan/zay/M249/Animations.prefab
 - Assets/Skins_0/Bundles/halo/Image_12.png
 - Assets/Skins_0/Bundles/lighting/3 2.mat
@@ -1051,6 +1060,7 @@ Assets:
 - Assets/Skins_0/Bundles/shockbyte/ShockByteTC_Albedo1.png
 - Assets/Skins_0/Bundles/clan/Dirty/Metal_Mask/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/Boom/Nav.prefab
+- Assets/Skins_0/FlexItems/Yeetless/DragonSlayer/Animations.prefab
 - Assets/Skins_0/Bundles/DarkMatter/M249/Animations.prefab
 - Assets/Skins_0/Bundles/neonV2/Drop/Barricade.prefab
 - Assets/Skins_0/Bundles/neonV2/Armor/Nav.prefab
@@ -1082,6 +1092,7 @@ Assets:
 - Assets/Skins_0/Bundles/barrels/SingleColor.mat
 - Assets/Skins_0/Bundles/ReZero/posters/501/8.mat
 - Assets/Skins_0/Bundles/AbyssPack/materials/DiverHatchet.mat
+- Assets/Skins_0/FlexItems/Yeetless/animations.fbx
 - Assets/Skins_0/Bundles/lighting/1 1.mat
 - Assets/Skins_0/Bundles/christmas2025/ChristmasSkin/Metal_Mask.fbx
 - Assets/Skins_0/Bundles/allinone/Reni/123.png
@@ -1094,6 +1105,7 @@ Assets:
 - Assets/Skins_0/Bundles/Halloween2025/HalloweenSkin2/HMLMG/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/FragsL/Item.prefab
 - Assets/Skins_0/Bundles/neonV2/Ore/Nav.prefab
+- Assets/Skins_0/FlexItems/Yeetless/New Material 1.mat
 - Assets/Skins_0/KillEffects/Summer2026/misc/butterfly-NoGlow4.png
 - Assets/Skins_0/Bundles/JungleAK/JungleAR_C_Albedo.jpg
 - Assets/Skins_0/Bundles/clan/Dirty/Cupboard_Locked/Clip.prefab
@@ -1411,6 +1423,7 @@ Assets:
 - Assets/Skins_0/Bundles/halo/Metal_Chestplate/Animations.prefab
 - Assets/Skins_0/Bundles/neonV2/_textures/dropmain.png
 - Assets/Skins_0/Bundles/barrels/animation 1.controller
+- Assets/Skins_0/FlexItems/Yeetless/Sounds/Impact.asset
 - Assets/Skins_0/Bundles/halo/Image_9.png
 - Assets/Skins_0/Bundles/lighting/LR300/Item.prefab
 - Assets/Skins_0/Bundles/clan/Dirty/AK47/Item.prefab
@@ -1451,6 +1464,7 @@ Assets:
 - Assets/Skins_0/Bundles/summer2025/wattameloon/LR300/Item.prefab
 - Assets/Skins_0/Bundles/Summer2026/Beach/L96/Animations.prefab
 - Assets/Skins_0/Bundles/Summer2026/Koi/12.png
+- Assets/Skins_0/FlexItems/Yeetless/sword.fbx
 - Assets/Skins_0/Bundles/ReZero/posters/500/frame_06_delay-0.09s.jpg
 - Assets/Skins_0/Bundles/halo/Door_Garage_Locked/Item.prefab
 - Assets/Skins_0/Bundles/clan/Cruz0/Thompson/Item.prefab
@@ -2063,6 +2077,7 @@ Assets:
 - Assets/Skins_0/Bundles/summer2025/SummerVibes/Door_Metal/Clip.prefab
 - Assets/Skins_0/Bundles/DarkMatter/L96/Animations.prefab
 - Assets/Skins_0/Bundles/Halloween2025/Blair/Metal_Mask/Animations.prefab
+- Assets/Skins_0/FlexItems/Yeetless/Sounds/Impact.wav
 - Assets/Skins_0/Bundles/ReZero/posters/501/frame_01_delay-0.09s.jpg
 - Assets/Skins_0/Bundles/barrels/vertical/Case/Clip.prefab
 - Assets/Skins_0/Bundles/rainbow/AK47/Animations.prefab
@@ -2107,6 +2122,7 @@ Assets:
 - Assets/Skins_0/Bundles/ReZero/posters/Cube.fbx
 - Assets/Skins_0/Bundles/Summer2026/Popstar/_OcclusionMap0.png
 - Assets/Skins_0/Bundles/clan/zay/AK47/Item.prefab
+- Assets/Skins_0/FlexItems/Yeetless/sword.mat
 - Assets/Skins_0/Bundles/Summer2026/NMPLOL/_OcclusionMap0.png
 - Assets/Skins_0/Bundles/Halloween2025/Blair/0 16.mat
 - Assets/Skins_0/Bundles/lighting/Case_1.asset

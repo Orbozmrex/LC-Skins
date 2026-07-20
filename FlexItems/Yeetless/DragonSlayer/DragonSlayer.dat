@@ -1,0 +1,50 @@
+﻿GUID cc8474f7454e4e3d92595fb6a9f261a5
+Type Melee
+Rarity Rare
+Useable Melee
+Slot Any
+ID 55455
+
+Shared_Skin_Lookup_ID 1036
+Shared_Skin_Apply_Visuals false
+
+Weak 0.25
+Strong 0.3
+
+Size_X 2
+Size_Y 2
+Size_Z 1.5
+
+AttackAudioClip skins_0.masterbundle:FlexItems/Yeetless/Sounds/Use.wav
+ImpactAudioDef skins_0.masterbundle:FlexItems/Yeetless/Sounds/Impact.asset
+
+InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Metal_Medium_Rattley.asset
+
+Range 2
+Strength 1
+Stamina 0
+
+Player_Damage 0
+Player_Leg_Multiplier 0
+Player_Arm_Multiplier 0
+Player_Spine_Multiplier 0
+Player_Skull_Multiplier 0
+
+Zombie_Damage 0
+Zombie_Leg_Multiplier 0
+Zombie_Arm_Multiplier 0
+Zombie_Spine_Multiplier 0
+Zombie_Skull_Multiplier 0
+
+Animal_Damage 0
+Animal_Leg_Multiplier 0
+Animal_Spine_Multiplier 0
+Animal_Skull_Multiplier 0
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Durability 0.1
