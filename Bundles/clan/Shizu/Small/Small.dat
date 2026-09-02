@@ -1,0 +1,16 @@
+﻿GUID 286238f50fff45fbb29e481158fc8ef3
+Type Backpack
+Rarity Rare
+Useable Clothing
+ID 5744
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+InventoryAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Cloth.asset
+WearAudio laughingcoffinmod.masterbundle:Sounds/Inventory/Cloth.asset
+
+Width 8
+Height 6
+Priority_Over_Cosmetic True
